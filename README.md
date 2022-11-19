@@ -5,13 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahmoudalaa22" alt="mahmoudalaa22" /></a> </p>
 
-- 🔭 I’m currently working on [Qurani Pro](https://play.google.com/store/apps/details?id=com.sh.quran_motif)
+- 🔭 I’m currently working on [DEVS Notes](https://play.google.com/store/apps/details?id=com.devs.devs_notes&pli=1)
 
-- 🌱 I’m currently learning **Firebase and AR**
-
-- 🔭 I’m currently working on [البيان](https://play.google.com/store/apps/details?id=com.sh.albayan)
-
-- 🤝 I’m looking for help with **AR Flutter Project**
+- 🌱 I’m currently learning **AR**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MahmoudAlaa22](https://github.com/MahmoudAlaa22)
 
