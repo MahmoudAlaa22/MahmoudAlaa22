@@ -1,6 +1,16 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Alaa</h1>
 <h3 align="center">I'm a Flutter Developer</h3>
 
+
+## 🚀 About Me
+- 4 years of developing mobile applications and have been working with Flutter for the past more than 3 years.
+- I have experience in developing applications with a wide range of features, including user authentication, data storage, and integration with third-party APIs.
+- Great experience in different fields: e-commerce, socials, maps, fin-tech, etc.
+- I have experience in debugging and troubleshooting applications to ensure they are running smoothly.
+- I have also worked on projects that involve creating custom UI components and animations.
+- I have experience with prototyping and designing apps in UI/UX tools like Figma and Adobe XD.
+- Published more than 10 apps to App Store/Google Play.
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoudalaa22&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoudalaa22" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahmoudalaa22" alt="mahmoudalaa22" /></a> </p>
