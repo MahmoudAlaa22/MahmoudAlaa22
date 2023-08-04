@@ -15,11 +15,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahmoudalaa22" alt="mahmoudalaa22" /></a> </p>
 
-- 🔭 I’m currently working on [DEVS Notes](https://play.google.com/store/apps/details?id=com.devs.devs_notes&pli=1)
+- 🔭 I’m currently working on <b>Travel Rental System<b/>
 
 - 🌱 I’m currently learning **AR**
-
-- 👨‍💻 All of my projects are available at [Google Play](https://play.google.com/store/apps/developer?id=Mahmoud+Alaa)
 
 - 📫 How to reach me **mahmoud3laa2210@gmail.com**
 
